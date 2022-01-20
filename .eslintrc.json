@@ -1,0 +1,7 @@
+{
+  "eslint.workingDirectories": [
+    "./backend", 
+    "./frontend"
+  ],
+  "extends": [ "eslint:recommended", "next/babel", "next/core-web-vitals" ]               
+}
